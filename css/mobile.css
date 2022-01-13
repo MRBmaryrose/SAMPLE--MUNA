@@ -1,0 +1,79 @@
+#navbar ul,
+#navbar ul li {
+  float: none;
+}
+
+#navbar h1 {
+  float: none;
+  text-align: center;
+}
+#navbar ul li a {
+  padding: 5px;
+  border-bottom: 1px dotted #ccc;
+}
+
+#main {
+  max-width: 1100px;
+
+}
+#main .content{
+  width: 1255px;
+  background-color: #fdf6f0;
+  height: 200px;
+  padding-left: 10%;
+}
+h2,h3,p{
+  padding: 0 2rem;
+  overflow: hidden;
+  color: #333;
+}
+h2{
+  text-align: center;
+  padding-top: 1%;
+}
+h3{
+  font-weight: 600;
+}
+.content-1{
+  text-align: center;
+  color: #ff7600;
+}
+#main .icon {
+  float: left;
+  width: 33%;
+  overflow: hidden;
+  padding-top: 20px;
+  
+}
+i{
+  float: left;
+  height: 50px;
+  width: 50px;
+  border-radius:50%;
+  background-color: #f8e2cf ;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
